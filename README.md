@@ -59,6 +59,4 @@ Python, Biopython (Entrez, SeqIO), Pandas, Matplotlib, Google Colab, NCBI Nucleo
 - Add codon usage, CpG island and k-mer analysis
 - Link results to expression or mutation data
 
-## License
 
-MIT License (add a `LICENSE` file if you choose this license).
